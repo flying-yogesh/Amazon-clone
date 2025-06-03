@@ -3,7 +3,7 @@ const products = [
     {id:2, name: "iphone 16 pro max", price: 150000, image:"images/smartphone.jpg"},
     {id:3, name: "i watch", price: 89000, image:"images/Applewatch-series10-rosegold-Price-in-Nepal.webp"},
     {id:4, name: "speaker", price: 100000, image:"images/speakerxl.jpg"},
-    {id:5, name: "mackbook", price: 250000, image:"images/laptopxl.jpg"},
+    {id:5, name: "mackbook", price: 350000, image:"images/laptopxl.jpg"},
 ];
 
 let cart = JSON.parse(localStorage.getItem("cart"))||[];
